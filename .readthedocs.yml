@@ -4,7 +4,6 @@ version: 2
 # Image to use
 build:
   os: ubuntu-20.04
-  image: testing
   tools:
     python: "3.11"
 

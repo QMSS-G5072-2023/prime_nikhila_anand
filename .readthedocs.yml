@@ -3,6 +3,7 @@ version: 2
 
 # Image to use
 build:
+  os: mac-os
   image: testing
 
 # Configuration
